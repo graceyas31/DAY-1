@@ -1,1 +1,23 @@
+                                                              OBJECTS IN JS
 
+#Objects is the important data type in modern js.
+#Ojects are quite different from (numbers,boolean,string).
+#An object is a refernce data type
+#Object are enclosed in open and closed pranthesis and have both keys and values.
+#In javascript,an object is a standalone entity,with properties and type.
+#In simple terms "a javscript object is a collection of named values and behaviour(properties and method).
+#EXAMPLES- car,pen,phone,fridge(real time examples).
+#All the cars have same properties,but the property values differ from car to car.
+#the following code represents the simple "OBJECT"
+
+     Var car = { name : "MORRIS GARRAGE" };
+
+#Object has both keys and values.
+#Ojects are variable too,it can contain many values.keys and values are seperated by :(colan).
+#More prperties are occur in Oject.For example car has a property like color,weight,mileage,fueltype etc.
+#So, conclusion and simpe definition or javascript objects method is " methods are actions that can be performed on objects".
+
+
+
+     
+                                                                    
