@@ -1,0 +1,13 @@
+                                                         Difference between  HTTP 1.1 & HTTP 2:
+                                                          
+# HTTP - is known as HYPERTEXT TRANSFER PROTOCOL.
+#It is basis of all WEB APPLICATION.
+#HTTP is a method used to tranfer data such as photo,video,document,files in a WEB.
+#HTTP was first created in 1997 and it is called HTTP/1.1.
+#In 2015 a new version is created and it is established as HTTP/2.
+#HTTP/2 is much more faster and efficient than HTTP/1.1.
+#When client makes a request for a web page HTTP/2 send more data at a time but HTTP/1.1 sends single data at once.
+#SERVER PUSH - In HTTP/1.1 the server push only the clients ask the data,however it is not the right approach in modern website,but  HTTP/2 sends all the information before the clients ask for.
+#HEAD COMPRESSION - To speedup the performance HTTP 1.1/2 both compress messages and look smaller.HTTP/2 uses advanced technique called "HPACK",thus it results in fast loading.
+#therfore HTTP/2 is more faster and efficient than HTTP/1.1.
+#It is more convenient for the developers to use HTTP/2.
